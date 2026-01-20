@@ -1,7 +1,7 @@
-let userName = ("Lucas")
-if (userName === "Lucas") {
-    console.log("Welcome, " + userName + "! Have a beautiful day.")
-}
+let userName = "Lucas";
+if (userName === "Lucas" {
+    console.log("Welcome, " + userName + "! Have a beautiful day.");
+} 
 else {
-    console.log("Welcome! Have a beautiful day")
+    console.log("Welcome! Have a beautiful day");
 }

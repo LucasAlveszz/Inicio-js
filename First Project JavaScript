@@ -3,5 +3,5 @@ if (userName === "Lucas") {
     console.log("Welcome, " + userName + "! Have a beautiful day.")
 }
 else {
-    console.log("Welcome! Have a beatiful day")
+    console.log("Welcome! Have a beautiful day")
 }

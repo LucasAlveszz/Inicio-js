@@ -1,5 +1,5 @@
 let userName = "Lucas";
-if (userName === "Lucas" {
+if (userName === "Lucas") {
     console.log("Welcome, " + userName + "! Have a beautiful day.");
 } 
 else {

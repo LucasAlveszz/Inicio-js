@@ -34,4 +34,4 @@ The program analyzes a value, checks its type, verifies if it is possible to cal
 2. Open the project folder
 3. Run the file using Node.js:
    ```bash
-   
+   node index.js
